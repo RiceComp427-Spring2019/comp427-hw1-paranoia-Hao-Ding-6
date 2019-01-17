@@ -28,7 +28,6 @@ please cut-and-paste the text from that email here._
   - The stadium is similar to the Rice Stadium and can contain 60000 audiences.
   - There will be a important game bwtween two top ranked team to competefo the title.
   - These two teams have a huge number fo fans and at least 30000 of them will come to the stadium at that day.
-
 - Assets:
   - Audience   
   The first thing I have to think is the safety of such a number of audiences because they are not prepared for any emergency situations while watching and cheering their team. It would be easy for an attacker (such as terrorists, people who support different team, etc) to  inflicts hurt on others during the game. Also, such a number of audiences and crowded environment is the thief's heaven, it's hard to find the thief in that situation without well-designed security measurements. Therefore, the protection on audiences is indispensable.
