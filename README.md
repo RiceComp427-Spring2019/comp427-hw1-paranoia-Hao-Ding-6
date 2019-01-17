@@ -33,12 +33,13 @@ please cut-and-paste the text from that email here._
   The first thing I have to think is the safety of such a number of audiences because they are not prepared for any emergency situations while watching and cheering their team. It would be easy for an attacker (such as terrorists, people who support different team, etc) to  inflicts hurt on others during the game. Also, such a number of audiences and crowded environment is the thief's heaven, it's hard to find the thief in that situation without well-designed security measurements. Therefore, the protection on audiences is indispensable.
   - Football team   
   Second, the football teams should also be protected while they are competing at the stadium. There are a lot of cases in the history that terrorists or insane fans rush into the court and attack the players, the consequences range from a false alarm (like a crazy streaker) to the death of players and negative effect on society (such as a terrorist with his gun or bomb). So, it is neccesary to make strict security measurement to protect our players.
-  - Stadium itself    
-  Finally, we should 
+  - Public facilities   
+  Finally, we should pay our attention to the public facilities like electronic system, seats, guardrail, etc. They are closely related to the safety of audiences and football players because they are used at all times before, during and after the game. If there is something worong with the stadium like power failure, guardrail fracture, etc, there is a strong possibility that the audiences and players would get into a mess and be injured. So we should ensure that the stadium itself is safe.
 - Threats:
-  - Thief 
-  - Terrorist
-  - Crazy fans
+  - Equipments Aging   
+  As we say above, it is very important to maintain the equipments of the stadium since they can directly hurt people if therer is emergency situations like fire, building damaged, etc. Any one from these situations would impose big effect on the people at the stadium, even endanger their lives.
+  - Intentional Attack   
+  Intentional attack means man-made attack including terrorists, crazy fans, etc. It is unpredictable because you would never know what those people would do in such a feverish, corwded, chaotic atmosphere. Also it is easily to become worse if there is panic-stricken stampede which is likely to happen according to our history.   
 - Countermeasures:
   - 
   - 
