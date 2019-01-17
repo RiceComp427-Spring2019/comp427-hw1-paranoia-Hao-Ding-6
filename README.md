@@ -59,17 +59,21 @@ please cut-and-paste the text from that email here._
   - Submission System   
   Finally, we must ensure that the submission system should be protected and would not be easy to be damaged by someone like hacker. If the system is damaged, we would lost all the data including the submission materials, grades, and the accounts for all teacher and students. It would cost a lot of time to resoter the data or we would never restore the damaged data. Again, the system itelf must be  closely guarded.
 - Threats:
-  - Security Hidden Danger   
-    sdasdasd
-  - student
+  - Unauthorized Operation   
+  Unauthorized operation means someone can change the data on the system without regular authorization. For example, a hacker can move around the username-password match and enter the system or just break the password in the database. It is dangerous if that happens because you will not detect the invasion until you search somethign you want and you find it is changed or lost.
+  - Teacher Account Revealed
+  Also, if the accounts of teacher si revealed, anyone can use the teacher account to enter the system and manage the data on the system. The system would lost its utility in that case because if a student want to get an A+, he/she just use the teacher account the come to the system and change his/her grade in a few seconds. We should not let such things happen.
+  - System Crash   
+  System crash is a small probability evnet but it is still possible. Just imagine, if the Canvas or Piazza Sytem crashed, we would lost all the data on the system. It would be very inconvenient for teachers to release and grade the homework and for students to submit the homework and view their grades. It cost much to restore the data or build a new system, so we should pay attention to the safety of the system. 
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - First, to ensure that the accounts in the database would not be decoded by someone else, we can update the encryption mode to higher level mode. For example, we can generate a salt for our pasword and store the hash value HASH(key + salt) instead of HASH(key) by which we can improve the safety of our accounts. It might cost time to generate salt but the security of our accounts is ensured.
+  - Then we should let the teacher to set some private quesitons like what is the name of your grandfather and at each time they signing in they should first answer the questions and enter system. If someone give awrong answer, the system will record it and check the identity of that one. So even if soneone else get the teacher account, they still can not enter the system. It is a simple way for us to avoid the acount revealing problem.
+  - Finally we should maintain the system and backup our data periodically. Because system crach is hard to predict, we will never know when the system would crash. Periodical maintain the sysmtem we can decrease the probability of crashing and data backup can help us to restore the data after crashing. It would cost money to maintain the system and space to backup the data but we cna make sure our system is hard th crash and can restore the data even if it crashed.
 
 ## Problem 3
 - Scenario: {Team Project Management}
 - Assumptions:
-  - explain_your_assumptions
+  - 
 - Assets:
   - explanatory_paragraph
   - explanatory_paragraph ...
