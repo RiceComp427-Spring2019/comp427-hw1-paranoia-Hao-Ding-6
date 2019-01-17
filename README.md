@@ -86,9 +86,10 @@ please cut-and-paste the text from that email here._
   - Thief
   Because my computer is expensive, it would be noticed by thieves. If I did not pay attention to my computer, it is possible that my computer would be stolen by someone else. In that case I would literally lose my computer with all my data in it.
   - Hacker
-  A high-skill hacker can move around my username-password match or just decode my password to invade my system. In that case he can do whatever he wants to do in my computer and would not be detected by me. When I notice that I lost something it is too late. 
+  A high-skill hacker can move around my username-password match or just decode my password to invade my system. In that case he can do whatever he wants to do in my computer and would not be detected by me. When I notice that I lost something it is too late to defend the hacking. I should not let that happen.
   - Physical Damage
+  Physical damage includes alot of cases like fire, water, dropping, etc. But there is one thing they share in common, if any of them happened, it is a disaster. There might be no chance for you to restoer you data from a physical damaged computer. I believe lots of people destroyed their computer by droppping or water accidently and can do nothign to save it. It is really a disaster. 
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - The first thing I should do is to encode my computer in a high-level way like double check by fingerprint unlocking. Because my computer has a Touch Bar, I can use ti to achive that goal. Even if someone else can break my password, he should also pass the fingerprint check, otherwisehe can not enter my computer. It cost nothing but can improve the safety of my computer.
+  - Then I should prevent my computer from any physical damage For example, I can buy a laptop cover to protect it from dropping or hitting. I can but a keyboard membrane to defend the water. 
 
