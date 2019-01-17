@@ -33,7 +33,7 @@ please cut-and-paste the text from that email here._
   The first thing I have to think is the safety of such a number of audiences because they are not prepared for any emergency situations while watching and cheering their team. It would be easy for an attacker (such as terrorists, people who support different team, etc) to  inflicts hurt on others during the game. Also, such a number of audiences and crowded environment is the thief's heaven, it's hard to find the thief in that situation without well-designed security measurements. Therefore, the protection on audiences is indispensable.
   - Football team   
   Second, the football teams should also be protected while they are competing at the stadium. There are a lot of cases in the history that terrorists or insane fans rush into the court and attack the players, the consequences range from a false alarm (like a crazy streaker) to the death of players and negative effect on society (such as a terrorist with his gun or bomb). So, it is neccesary to make strict security measurement to protect our players.
-  - Stadium itself   
+  - Stadium itself    
   Finally, we should 
 - Threats:
   - Thief 
@@ -41,7 +41,7 @@ please cut-and-paste the text from that email here._
   - Crazy fans
 - Countermeasures:
   - 
-  -
+  - 
 
 ## Problem 2
 - Scenario: {Grading}
