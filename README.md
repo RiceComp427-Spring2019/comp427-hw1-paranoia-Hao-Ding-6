@@ -11,9 +11,9 @@ and will be rendered to beautiful HTML when you visit your GitHub repo.
 ## Student Information
 Please also edit _README.md_ and replace your instructor's name and NetID with your own:
 
-_Student name_: Dan WALLACH
+_Student name_: Hao Ding
 
-_Student NetID_: dwallach
+_Student NetID_: hd25
 
 Your NetID is typically your initials and a numeric digit. That's
 what we need here.
@@ -22,35 +22,39 @@ _If you contacted us in advance and we approved a late submission,
 please cut-and-paste the text from that email here._
 
 ## Problem 1
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: {Stadium}
 - Assumptions:
   - explain_your_assumptions
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Audience
+  - Football Player
+  - Venue
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Thief 
+  - Terrorist
+  - Crazy fan
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - 
+  -
 
 ## Problem 2
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: {Grading}
 - Assumptions:
   - explain_your_assumptions
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Homework
+  - Grade
+  - 
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Security Hidden Danger   
+    sdasdasd
+  - student
 - Countermeasures:
   - explanatory_paragraph
   - explanatory_paragraph ...
 
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: {Team Project Management}
 - Assumptions:
   - explain_your_assumptions
 - Assets:
