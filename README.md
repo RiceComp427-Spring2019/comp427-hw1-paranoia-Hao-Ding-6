@@ -36,13 +36,13 @@ please cut-and-paste the text from that email here._
   - Public facilities   
   Finally, we should pay our attention to the public facilities like electronic system, seats, guardrail, etc. They are closely related to the safety of audiences and football players because they are used at all times before, during and after the game. If there is something worong with the stadium like power failure, guardrail fracture, etc, there is a strong possibility that the audiences and players would get into a mess and be injured. So we should ensure that the stadium itself is safe.
 - Threats:
-  - Equipments Aging   
+  - Equipments Damage   
   As we say above, it is very important to maintain the equipments of the stadium since they can directly hurt people if therer is emergency situations like fire, building damaged, etc. Any one from these situations would impose big effect on the people at the stadium, even endanger their lives.
   - Intentional Attack   
   Intentional attack means man-made attack including terrorists, crazy fans, etc. It is unpredictable because you would never know what those people would do in such a feverish, corwded, chaotic atmosphere. Also it is easily to become worse if there is panic-stricken stampede which is likely to happen according to our history.   
 - Countermeasures:
-  - 
-  - 
+  - The first thing we should do is to totally check the status of the stadium including the strength of the buklding and the public facilities before the game. If there is something wrong with the items above, we should fix them immediately. This measurement might cost a lot of money but it is worth it since we can ensure that the safety of all the people at the stadium would not be affected by unexpected damage of the stadium.
+  - The we should deal with the possible man-made issue. We can solve this problem from two angles: First, we should strictly check the identity of the audience while they entering the gate and be sure that they don't carry anything dangerous like knife, bomb, gun, etc. By this we can prevent unauthorized and dangerous people from entering the stadium. Second, we should make sure that nobody can ge to the game field except the football team by adding security staff at the border of game field and short walls to seperate audiences and players. This may require many people and cost a number of money, but it is the most simple way to ensure the safety of players. 
 
 ## Problem 2
 - Scenario: {Grading}
