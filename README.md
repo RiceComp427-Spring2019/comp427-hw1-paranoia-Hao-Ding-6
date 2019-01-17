@@ -24,7 +24,9 @@ please cut-and-paste the text from that email here._
 ## Problem 1
 - Scenario: {Stadium}
 - Assumptions:
-  - explain_your_assumptions
+  - The stadium is located at the center of their city体育场建立在市中心的位置，经济发达，交通繁忙，人流密集。
+  - 体育场的结构参照rice stadium，能够容纳60000名观众。
+  - 这里即将有一场很重要的比赛，两支顶尖球队将在这里角逐全国总冠军，他们拥有非常多的粉丝，会有非常多的粉丝来现场看球。
 - Assets:
   - Audience
   - Football Player
