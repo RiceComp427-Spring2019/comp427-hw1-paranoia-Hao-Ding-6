@@ -24,17 +24,22 @@ please cut-and-paste the text from that email here._
 ## Problem 1
 - Scenario: {Stadium}
 - Assumptions:
-  - The stadium is located at the center of their city体育场建立在市中心的位置，经济发达，交通繁忙，人流密集。
-  - 体育场的结构参照rice stadium，能够容纳60000名观众。
-  - 这里即将有一场很重要的比赛，两支顶尖球队将在这里角逐全国总冠军，他们拥有非常多的粉丝，会有非常多的粉丝来现场看球。
+  - The stadium is located at the center of their city which is densely-populated and has heavy traffic.
+  - The stadium is similar to the Rice Stadium and can contain 60000 audiences.
+  - There will be a important game bwtween two top ranked team to competefo the title.
+  - These two teams have a huge number fo fans and at least 30000 of them will come to the stadium at that day.
+
 - Assets:
-  - Audience
-  - Football Player
-  - Venue
+  - Audience   
+  The first thing I have to think is the safety of such a number of audiences because they are not prepared for any emergency situations while watching and cheering their team. It would be easy for an attacker (such as terrorists, people who support different team, etc) to  inflicts hurt on others during the game. Also, such a number of audiences and crowded environment is the thief's heaven, it's hard to find the thief in that situation without well-designed security measurements. Therefore, the protection on audiences is indispensable.
+  - Football team   
+  Second, the football teams should also be protected while they are competing at the stadium. There are a lot of cases in the history that terrorists or insane fans rush into the court and attack the players, the consequences range from a false alarm (like a crazy streaker) to the death of players and negative effect on society (such as a terrorist with his gun or bomb). So, it is neccesary to make strict security measurement to protect our players.
+  - Stadium itself   
+  Finally, we should 
 - Threats:
   - Thief 
   - Terrorist
-  - Crazy fan
+  - Crazy fans
 - Countermeasures:
   - 
   -
