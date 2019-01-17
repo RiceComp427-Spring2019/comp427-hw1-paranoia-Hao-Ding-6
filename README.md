@@ -71,15 +71,23 @@ please cut-and-paste the text from that email here._
   - Finally we should maintain the system and backup our data periodically. Because system crach is hard to predict, we will never know when the system would crash. Periodical maintain the sysmtem we can decrease the probability of crashing and data backup can help us to restore the data after crashing. It would cost money to maintain the system and space to backup the data but we cna make sure our system is hard th crash and can restore the data even if it crashed.
 
 ## Problem 3
-- Scenario: {Team Project Management}
+- Scenario: {The security of my computer}
 - Assumptions:
-  - 
+  - I have a computer and there is a lot of important and private ducument in it.
+  - I should use my username and password to enter my computer.
+  - My computer is a MacBook pro with Touch Bar and it is expensive.
+  - My computer is easy to be damaged by physical attack.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Documents in the Computer
+  The first thing I should protect is the ducuments in my computer including my study materials, my vedios, my photos, my games and so on. I have put a lot og things into my computer and used a half of my disk, so if there is something wrong with my ducument, I will lost a lot of treasures and some of them is hard to restore. Also somwone else might be interested in the documents in my computer so it is also possible that my files are stolen by someone else.
+  - The Computer Itself
+  It is also important to protect my computer itself because if it crashed I would lost my control of the sysmte and can not access the data which is a high road to losing data. Also emergency situation like it fell on the floor and crashed or some water flowed into my computer would wreck it.  
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Thief
+  Because my computer is expensive, it would be noticed by thieves. If I did not pay attention to my computer, it is possible that my computer would be stolen by someone else. In that case I would literally lose my computer with all my data in it.
+  - Hacker
+  A high-skill hacker can move around my username-password match or just decode my password to invade my system. In that case he can do whatever he wants to do in my computer and would not be detected by me. When I notice that I lost something it is too late. 
+  - Physical Damage
 - Countermeasures:
   - explanatory_paragraph
   - explanatory_paragraph ...
